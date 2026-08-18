@@ -5,7 +5,7 @@ AIML student in Chennai, building ML-powered apps with Python.
 🌱 Currently working on: crop-recommendation-app — an ML model 
 that recommends crops based on soil and weather data
 
-🔗 Portfolio: https://sujitharulselvam.github.io
+🔗 Portfolio: https://sujithkomala-ops.github.io/sujitharulselvam.github.io/
 💼 LinkedIn: https://www.linkedin.com/in/sujith-arulselvam-bb91253b1
 
 **Tech:** Python · Machine Learning · scikit-learn
