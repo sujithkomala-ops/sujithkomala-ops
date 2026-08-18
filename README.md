@@ -10,4 +10,4 @@ that recommends crops based on soil and weather data
 
 **Tech:** Python · Machine Learning · scikit-learn
 
-![Sujith's GitHub stats](https://vercel.com/sujithkomala-ops1/github-readme-stats/5K2d4DRybM78QThsyAr7cnGTevBV)
+![Sujith's GitHub stats](https://github-readme-stats-woad-eight-66.vercel.app/api?username=sujithkomala-ops&show_icons=true)
